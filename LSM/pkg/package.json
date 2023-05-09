@@ -1,0 +1,12 @@
+{
+  "name": "tree_d",
+  "version": "0.1.0",
+  "files": [
+    "tree_d_bg.wasm",
+    "tree_d.js",
+    "tree_d.d.ts"
+  ],
+  "module": "tree_d.js",
+  "types": "tree_d.d.ts",
+  "sideEffects": false
+}
